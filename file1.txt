@@ -1,7 +1,9 @@
 This is my second update
 
-first sentence 
-2nd sentence
-3rd sentence 
-4th sentence 
-5th sentence
+1
+2
+3
+4
+5
+adding the 6th line
+
